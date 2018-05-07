@@ -1,0 +1,12 @@
+- name: 'Paris'
+  address: '16 Villa Gaudelet'
+  picture: https://kitt.lewagon.com/placeholder/cities/paris
+  avatar: https://kitt.lewagon.com/placeholder/users/ssaunier
+- name: "Rio"
+  address: "25 calle Copacabana"
+  picture: https://kitt.lewagon.com/placeholder/cities/rio
+  avatar: https://kitt.lewagon.com/placeholder/users/Papillard
+- name: "Tokyo"
+  address: "234 Sushi street"
+  picture: https://kitt.lewagon.com/placeholder/cities/tokyo
+  avatar: https://kitt.lewagon.com/placeholder/users/Acalderons
